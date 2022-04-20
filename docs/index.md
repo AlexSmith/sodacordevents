@@ -1,6 +1,3 @@
-## Discord
-If you are not already a member of [sodacord](https://discord.gg/sodapoppin) be sure to join it
-
 ## SCP:Secret Laboratory
 Info will be posted on the day
 
