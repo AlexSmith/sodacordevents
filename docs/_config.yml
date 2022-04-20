@@ -9,4 +9,4 @@ minima:
     youtube: A_l_e_x_S
     youtube_channel: UC2XBDOrJIoQAovnC3rEWbMQ
     youtube_channel_name: A_l_e_x_S
-theme: minima
+remote_theme: jekyll/minima
