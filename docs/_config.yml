@@ -29,7 +29,7 @@ minima:
     twitter: A_l_e_x_STV
     youtube_channel: UC2XBDOrJIoQAovnC3rEWbMQ
     youtube_channel_name: A_l_e_x_S
-remote_theme: jekyll/minima
+
 # title: Your awesome title
 # email: your-email@example.com
 # description: >- # this means to ignore newlines until "baseurl:"
@@ -42,7 +42,7 @@ remote_theme: jekyll/minima
 # github_username:  jekyll
 
 # Build settings
-# theme: minima
+theme: minima
 plugins:
   - jekyll-feed
 
