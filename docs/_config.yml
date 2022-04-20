@@ -3,12 +3,11 @@ author:
   name: A_l_e_x_S
 description: >
   Welcome to the Sodacord events page! 
-  If you are not already a member of https://discord.gg/sodapoppin be sure to join it
+  If you have any questions or suggestions you can fined on discord @A_l_e_x_S#2190
 minima:
   skin: dark
   social_links:
     twitter: A_l_e_x_STV
-    youtube: A_l_e_x_S
     youtube_channel: UC2XBDOrJIoQAovnC3rEWbMQ
     youtube_channel_name: A_l_e_x_S
 remote_theme: jekyll/minima
