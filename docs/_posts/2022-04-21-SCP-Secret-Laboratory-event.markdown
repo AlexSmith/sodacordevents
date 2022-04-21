@@ -14,13 +14,11 @@ If you are experiencing any major **server-side** problems ill be live at <https
 
 ## EU-WEST SERVERS
 * Server 01 - `20.108.176.19:7777`
-* Server 02 - `20.108.176.19:7778`
-* Server 03 - `20.108.176.19:7779`
+
 
 ## US-EAST SERVERS 
 * Server 01 - `20.84.38.179:7777`
 * Server 02 - `20.84.38.179:7778`
-* Server 03 - `20.84.38.179:7779`
 
 ## PRIVATE SERVER
 * Server 01 - `20.84.38.179:8888`
